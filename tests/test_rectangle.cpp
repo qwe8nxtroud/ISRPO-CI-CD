@@ -7,6 +7,7 @@ int main() {
     assert(area(r) == 12);
     assert(perimeter(r) == 14);
   }
+  // dd rrer
   {
     Rectangle r{0, 5};
     assert(area(r) == 0);
